@@ -14,7 +14,7 @@ function Footer() {
                         <p>HNG Internship 9 FrontEnd Task</p>
                     </div>
                     <div className='ingressive_img'>
-                        <img src="images/i4good.jpg" alt="Ingressive 4 Good" />
+                        <img src="images/i4good.png" alt="Ingressive 4 Good" />
                     </div>
                 </div>
             </div>
