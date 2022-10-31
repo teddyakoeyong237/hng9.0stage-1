@@ -20,10 +20,13 @@
 hr {
     margin: 40px 0px 35px;
 }
-.container {
+.footer .container {
     margin: 1px auto;
 }
 @media screen and (max-width: 720px) {
+    .footer{
+        padding: 32px 0;
+    }
     .content {
         flex-direction: column;
     }

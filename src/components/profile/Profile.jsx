@@ -15,7 +15,8 @@ function Profile() {
                     <img id='profile__img' src="images/teddyakoeyong.jpg" alt="Profile Picture" />
                 </div>
                 <div className='profile_name'>
-                    <h2>@teddyakoeyong</h2>
+                    <h2 id='twitter'>@teddyakoeyong</h2>
+                    <h2 id='slack'>Eyonganyoh Teddy Ako</h2>
                 </div>
             </div>  
         </div>

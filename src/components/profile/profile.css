@@ -1,4 +1,4 @@
-.container {
+.profile .container {
     margin: 5px auto;
     max-width: 1152px;
 }
@@ -74,16 +74,23 @@
     text-align: center;
     color: #101828;
 }
+.profile_name #slack{
+    display: none;
+}
 
 .threedot_icon {
     display: none;
+}
+@media screen and (max-width: 1200px) {
+    .icons {
+        right: 20%;
+    }
 }
 
 @media screen and (max-width: 720px) {
     .icons {
         right: 3%;
     }
-
     .share_icon {
         display: none;
     }
