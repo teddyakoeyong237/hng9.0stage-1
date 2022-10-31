@@ -1,0 +1,30 @@
+.footer {
+    padding: 48px 0;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+.content img {
+    height: 2rem;
+}
+.content>div {
+    padding: 10px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+}
+.grey_text {
+    color: #667085;
+}
+hr {
+    margin: 40px 0px 35px;
+}
+.container {
+    margin: 1px auto;
+}
+@media screen and (max-width: 720px) {
+    .content {
+        flex-direction: column;
+    }
+}
