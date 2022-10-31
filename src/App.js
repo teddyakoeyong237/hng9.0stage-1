@@ -1,9 +1,10 @@
 import './App.css';
+import Profile from './components/profile/Profile';
 
 function App() {
   return (
     <div className="App">
-        <h1>HNGi9 Task-1</h1>
+      <Profile />
     </div>
   );
 }
