@@ -38,6 +38,7 @@ function Links() {
 
                     <a
                         className="link_button"
+                        title='This where you find books about design and coding'
                         id='books'
                         href={link3}
                         target="_blank"
@@ -47,6 +48,7 @@ function Links() {
                     </a>
                     <a
                         className="link_button"
+                        title='Where you feature the book as if you were selling it'
                         id='book__python'
                         href={link4}
                         target="_blank"
@@ -57,6 +59,7 @@ function Links() {
 
                     <a
                         className="link_button"
+                        title='Where you pitch a service for doing background checks on coders'
                         id='pitch'
                         href={link5}
                         target="_blank"
@@ -67,6 +70,7 @@ function Links() {
 
                     <a
                         className="link_button"
+                        title='Where you pitch the free design book offered by Zuri'
                         id='book__design'
                         href={link6}
                         target="_blank"

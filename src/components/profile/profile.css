@@ -1,6 +1,7 @@
 .profile .container {
     margin: 5px auto;
     max-width: 1152px;
+    position: relative;
 }
 
 .profile_section {
@@ -16,8 +17,8 @@
 
 .icons {
     position: absolute;
-    top: 40px;
-    right: 35%;
+    top: -25px;
+    right: 25%;
     height: 40px;
     width: 40px;
     overflow: hidden;
@@ -81,13 +82,13 @@
 .threedot_icon {
     display: none;
 }
-@media screen and (max-width: 1200px) {
+/* @media screen and (max-width: 1200px) {
     .icons {
         right: 20%;
     }
-}
+} */
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 812px) {
     .icons {
         right: 3%;
     }
