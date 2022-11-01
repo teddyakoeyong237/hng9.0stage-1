@@ -18,7 +18,7 @@ function Links() {
                 <div className='container'>
                     <a
                         className="link_button"
-                        id='twitter'
+                        id='twitter__link'
                         href={link1}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -48,7 +48,7 @@ function Links() {
                     </a>
                     <a
                         className="link_button"
-                        title='Where you feature the book as if you were selling it'
+                        title='It does not matter if you have never used a computer before, get all what you need to start your tech career as a Python developer'
                         id='book__python'
                         href={link4}
                         target="_blank"
@@ -59,7 +59,7 @@ function Links() {
 
                     <a
                         className="link_button"
-                        title='Where you pitch a service for doing background checks on coders'
+                        title='Give your list of applicants and we will tell you who really has the sufficient skills for your task'
                         id='pitch'
                         href={link5}
                         target="_blank"
@@ -70,7 +70,7 @@ function Links() {
 
                     <a
                         className="link_button"
-                        title='Where you pitch the free design book offered by Zuri'
+                        title='It is not the price of the book that determines its content, find the best design books for free at Zuri'
                         id='book__design'
                         href={link6}
                         target="_blank"
