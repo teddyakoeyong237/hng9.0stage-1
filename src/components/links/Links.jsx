@@ -83,13 +83,13 @@ function Links() {
             </div>
             <div className="icon_container">
                 <div className="link_icons">
-                    <img className="link_icon" src="/images/slack.png" alt="Slack_profile" />
+                    <img className="link_icon" src="images/slack.png" alt="Slack_profile" />
                     <a
                         href={gitlink}
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        <img className="link_icon" src="/images/github.png" alt="Github_profile" />
+                        <img className="link_icon" src="images/github.png" alt="Github_profile" />
                     </a>
                 </div>
             </div>
